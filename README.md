@@ -34,7 +34,7 @@ pararMotores()
 
 Observações
 
-- O valor definido em `#define POT 180` controla a velocidade dos motores (PWM).
-- Os sensores IR devem estar configurados para:
-  - Retornar `LOW` ao detectar **preto (linha)
-  - Retornar `HIGH` ao detectar **branco (fundo)
+O valor definido em `#define POT 180` controla a velocidade dos motores (PWM).
+Os sensores IR devem estar configurados para:
+Retornar `LOW` ao detectar **preto (linha)
+Retornar `HIGH` ao detectar **branco (fundo)
